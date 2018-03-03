@@ -1,0 +1,4 @@
+/*把css文件集合到一起*/
+@import url(layout.css);
+@import url(color.css);
+@import url(typography.css);
